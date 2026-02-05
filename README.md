@@ -1,10 +1,28 @@
 - 👋 Hi, I’m @ayoub-bakr 
 - 👀 I’m interested in Ai ...
-- 🌱 I’m currently learning computer Engeneering ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+AI Engineer | Computer Vision Enthusiast | Machine Learning
+
+🔹 Background:
+- Computer Engineering Graduate (2025)
+- 👀 I’m interested in Ai ...
+- Focused on Computer Vision & Machine Learning & Deep Learning 
+
+🔹 Skills:
+- Python, NumPy, Pandas , matplotlib 
+- OpenCV, YOLO
+- TensorFlow, PyTorch
+- Image Classification & Object Detection & segmantation 
+
+🔹 Current Focus:
+- Machine Learning
+- Computer Vision projects
+- Real-world AI applications
+
+📫 Contact:
+- LinkedIn: https://www.linkedin.com/in/ayoub-bakr-24787a267/ ...
+- Email: ayoubbak33@gmail.com ...
+
 
 <!---
 ayoub-bakr/ayoub-bakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

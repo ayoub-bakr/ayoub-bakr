@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ayoub-bakr 
 - 👀 I’m interested in Ai ...
 
-AI Engineer | Computer Vision Enthusiast | Machine Learning
+AI Engineer | Computer Vision Enthusiast | Machine Learning Natural | Natural language processing
+
 
 🔹 Background:
 - Computer Engineering Graduate (2025)

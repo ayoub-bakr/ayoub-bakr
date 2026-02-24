@@ -16,7 +16,8 @@ AI Engineer | Computer Vision Enthusiast | Machine Learning
 
 🔹 Current Focus:
 - Machine Learning
-- Computer Vision projects
+- Computer Vision project
+- Natural language processing
 - Real-world AI applications
 
 📫 Contact:

@@ -7,7 +7,7 @@ AI Engineer | Computer Vision Enthusiast | Machine Learning Natural | Natural la
 🔹 Background:
 - Computer Engineering Graduate (2025)
 - 👀 I’m interested in Ai ...
-- Focused on Computer Vision & Machine Learning & Deep Learning & NLP
+- Focused on Computer Vision & Machine Learning & Deep Learning & NLP | RAG
 
 🔹 Skills:
 - Python, NumPy, Pandas , matplotlib 
